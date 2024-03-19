@@ -2,7 +2,7 @@
 #path: /data/jiayuan/BDDcoco/yolo_v8_toy  # dataset root dir
 
 #path: /data/jiayuan/yolo8_multi  # dataset root dir
-path: /kaggle/input/bdd-100k/bdd100k/images/100k
+path: /kaggle/input/bdd100k-detection-object/bdd100k_labeled-detection-object
 
 # Train/val/test image paths for all tasks
 train: /train  # train images for object detection (relative to 'path')
